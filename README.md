@@ -1,3 +1,6 @@
+https://travis-ci.org/jorgepgjr/pre-dojo.svg?branch=master
+
+
 PROBLEMA
 ========
 Dado o seguinte log de um jogo de tiro em primeira pessoa:
