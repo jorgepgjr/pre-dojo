@@ -1,3 +1,5 @@
 É um projeto maven, configurei um build para deixar o projeto como um runnable jar.
 Basta entrar na pasta onde se encontra o arquivo pom.xml e executar mvn package
 entre na pasta target e execute java -jar pre-dojo.jar ARQUIVO_LOG.txt
+
+Está bem basico e simples, pois tive que fazer em pouco tempo.
